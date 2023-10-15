@@ -28,7 +28,7 @@ margaretha.
 
 # Attention
 
-With this repo i intend to visualize and understand the attention mechanism used to derive the ouput distributions.
+With this repo i intend to visualize and understand the attention mechanism used to derive the ouput distributions, as well as to interpret the model as a whole.
 
 For example i hereby display the attention maps of the head 0 and head 2, of the first layer in the transformer.
 The maps are retrieved while forwarding the name ".muhamadibrahim."
