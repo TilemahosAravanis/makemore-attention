@@ -1,6 +1,6 @@
 # Model
 
-This repo contains a Jupyter Notebook that implements an auto regressive char level Language Model, with a transformer decoder nn. 
+This repo contains a Jupyter Notebook that implements an auto regressive char level Language Model, with a transformer decoder nn, influenced by Andej Karpathy's [makemore](https://github.com/karpathy/makemore). 
 The code is super hacky and i am not proud of it currently.
 
 It trains on `names.txt` dataset, as an example, taken from [ssa.gov](https://www.ssa.gov/oact/babynames/)
